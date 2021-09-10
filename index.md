@@ -2,7 +2,7 @@
  
 ### First meeting EVER!
 
-9/20/21 7PM - 8PM
+9/20/21 7PM - 8PM Eastern
 Online Meeting
 
 Black Women Code will host supportive goal-setting meetings on Mondays at 7PM. The goal of each meeting is to create a welcoming and productive space for a variety of ambitions. We will encourage participants to 
