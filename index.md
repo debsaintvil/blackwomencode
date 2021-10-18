@@ -17,3 +17,5 @@ Additionally, our aim will be to validate each other's workplace and education i
 7:25 - 7:55 - Virtual co-working - Members announce aim for the co-working time\
 7:55 - 8:00 - Update on whether goal was completed; Meeting closes
 
+##The evening's meeting will be canceled if there is no attendance by 7:15PM Eastern
+
