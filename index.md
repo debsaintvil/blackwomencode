@@ -1,6 +1,5 @@
 ## Welcome to Black Women Code
-## Meeting online every Monday evening -- 7PM - 8PM Eastern
-## ¡ CANCELLED MEETING MONDAY 11/22/21 !
+## Meeting online every Monday evening -- 7PM - 8PM Eastern 
 
 Please share, invite friends, and promote #BlackWomenCode !
 
