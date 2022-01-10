@@ -1,4 +1,3 @@
 
 
-
-Drop a note at Hi@BlackWomenCode.com
+## Drop a note at Hi@BlackWomenCode.com
